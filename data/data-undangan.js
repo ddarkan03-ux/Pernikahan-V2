@@ -1,7 +1,7 @@
 window.DATA = {
   "kategori": "pernikahan",
   "kode": "PernikahanV2",
-  "siteUrl": "",
+  "siteUrl": "https://ddarkan03-ux.github.io/Pernikahan-V2/",
   "firebase": {"apiKey": "AIzaSyBEA92p-xAjSyvDTWT09-zsuEDyjZg2dZw", "projectId": "undangan-saya"},
   "ucapanPublik": true,
   "model": "Versi 2 - Emerald & Gold",
