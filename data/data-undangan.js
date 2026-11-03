@@ -76,16 +76,26 @@ window.DATA = {
   ],
   "hadiah": [
     {
-      "bank": "BCA",
+      "bank": "BJB",
       "nomor": "1234567890",
       "atasNama": "Raka Pratama"
     },
     {
-      "bank": "DANA",
+      "bank": "NEO",
       "nomor": "081234567890",
       "atasNama": "Alya Putri"
     }
   ],
+  "logoBank": true,
+  "pihakKlien": "pria",
+  "panelAdmin": {
+    "ucapanPublik": true,
+    "turutMengundang": true,
+    "rekening": true,
+    "urutanNama": true,
+    "pesanWa": true,
+    "pratinjauLink": true
+  },
   "alamatKado": "Alya Putri (085716300907) - Alamat lengkap pengiriman hadiah",
   "turutMengundangTampil": true,
   "turutMengundang": [
